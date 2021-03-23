@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Introduction - JSP configuration in deployment descriptor">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Introduction_-_JSP_configuration_in_deployment_descriptor"/>
+        <property name="java-output-path" value="/Introduction - JSP configuration in deployment descriptor/build/classes"/>
+    </wb-module>
+</project-modules>

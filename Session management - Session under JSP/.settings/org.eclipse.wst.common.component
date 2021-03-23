@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Session management - Session under JSP">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Session_management_-_Session_under_JSP"/>
+        <property name="java-output-path" value="/Session management - Session under JSP/build/classes"/>
+    </wb-module>
+</project-modules>
