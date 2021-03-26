@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Building the application - Implement view image page">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Implement_view_image_page"/>
+        <property name="java-output-path" value="/Building the application - Implement view image page/build/classes"/>
+    </wb-module>
+</project-modules>

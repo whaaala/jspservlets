@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Building the application - Update information logic revisited">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Update_information_logic_revisited"/>
+        <property name="java-output-path" value="/Building the application - Update information logic revisited/build/classes"/>
+    </wb-module>
+</project-modules>
